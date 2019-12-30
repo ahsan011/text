@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.container{
+	width: 100%;
+	float: left;
+
+}
+
+header{
+
+}
+.assignment{
+
+}
+
+.class-one{
+
+margin: 47px;
+
+padding: 13px;
+}
+
+.class-one h1{
+	
+padding: 15px;
+}
+
+.class-one p{
+	
+padding: 17px;
+}
+
+.class-one li{
+	
+padding: 4px 16px;
+	
+list-style: none;
+}
+.btn{
+
+padding: 3px 11px;
+
+margin-left: 16px;
+}
